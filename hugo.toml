@@ -1,12 +1,12 @@
 baseURL = "https://outis42.com/"
 languageCode = "zh-cn"
-title = "outis42 | A Cognitive Engineering Lab"
+title = "outis42 | The Art of AI-Powered Decision-Making"
 theme = "PaperMod"
 
 [params.profileMode]
-  enabled = true
+  enabled = false
   title = "outis42"
-  subtitle = "引领一场认知革命：将思考，变为一门工程学。"
+  subtitle = "为驾驭 AI 思考力量的决策者，打造一套认知操作系统。"
   imageUrl = "" # 以后可以放你的头像
   imageWidth = 120
   imageHeight = 120
