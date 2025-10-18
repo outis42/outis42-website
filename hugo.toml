@@ -1,0 +1,16 @@
+baseURL = "https://outis42.com/"
+languageCode = "zh-cn"
+title = "outis42 | A Cognitive Engineering Lab"
+theme = "PaperMod"
+
+[params.profileMode]
+  enabled = true
+  title = "outis42"
+  subtitle = "引领一场认知革命：将思考，变为一门工程学。"
+  imageUrl = "" # 以后可以放你的头像
+  imageWidth = 120
+  imageHeight = 120
+  
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/your_github_username" # 替换成你的
