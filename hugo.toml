@@ -7,7 +7,7 @@ theme = "PaperMod"
   enabled = false
   title = "outis42"
   subtitle = "为驾驭 AI 思考力量的决策者，打造一套认知操作系统。"
-  imageUrl = "" # 以后可以放你的头像
+  imageUrl = ""
   imageWidth = 120
   imageHeight = 120
   
