@@ -3,6 +3,10 @@ languageCode = "zh-cn"
 title = "outis42 | The Cognitive Mirror"
 theme = "PaperMod"
 
+[params]
+  homeSubtitle = "探索 AI 如何重塑我们的思考、决策与自我认知。"
+  mainSections = ["posts"]
+
 [params.profileMode]
   enabled = false
   title = "outis42"
