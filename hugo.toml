@@ -1,6 +1,6 @@
 baseURL = "https://outis42.com/"
 languageCode = "zh-cn"
-title = "outis42 | The Cognitive Mirror: How AI is Reshaping Thought, Decisions, and Our Sense of Self"
+title = "outis42 | The Cognitive Mirror"
 theme = "PaperMod"
 
 [params.profileMode]
@@ -10,6 +10,9 @@ theme = "PaperMod"
   imageUrl = ""
   imageWidth = 120
   imageHeight = 120
+
+[params.homeInfoParams]
+  content = "How AI is Reshaping Thought, Decisions, and Our Sense of Self"
   
 [[params.socialIcons]]
   name = "github"
