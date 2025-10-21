@@ -6,14 +6,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = false
   title = "outis42"
-  subtitle = "为驾驭 AI 思考力量的决策者，打造一套认知操作系统。"
-  imageUrl = ""
+  subtitle = "探索 AI 如何重塑我们的思考、决策与自我认知。"
+  imageUrl = "/images/avatar.jpg"
   imageWidth = 120
   imageHeight = 120
-
-[params.homeInfoParams]
-  content = "How AI is Reshaping Thought, Decisions, and Our Sense of Self"
-  
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/your_github_username" # 替换成你的
